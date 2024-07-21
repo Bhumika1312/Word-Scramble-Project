@@ -32,7 +32,9 @@ __RANDOM__ : This module implements pseudo-random number generators for various 
 Install dependencies
 ```python
 pip install -r requirements.txt
+pip install -U pytest
 ```
+
 ## Running tests
 
 Use [python](https://www.python.org/) to run the application
