@@ -2,6 +2,18 @@
 
 ## Video Demo: [URL HERE]
 
+## Table of Contents
+- [Description](#description)
+- [Project Structure](#project-structure)
+- [Libraries](#libraries)
+- [Run Locally](#run-locally)
+- [Running Tests](#running-tests)
+- [Design Choices](#design-choices)
+- [Conclusion](#conclusion)
+- [Contributing](#contributing)
+- [Author](#author)
+- [License](#license)
+
 ## Description
 The **Word Scramble Game** is an engaging and educational game designed to challenge and improve players' word-solving skills. In this game, players are presented with a scrambled version of a word and must guess the original word. It provides a fun way to test vocabulary and quick thinking. The game offers immediate feedback on guesses and keeps track of the player’s score, enhancing the competitive aspect of the game.
 
@@ -37,7 +49,7 @@ pip install -r requirements.txt
 pip install -U pytest
 ```
 
-## Running tests
+## Running Tests
 
 Use [python](https://www.python.org/) to run the application
 ```
@@ -68,3 +80,6 @@ to discuss what you would like to change.
 
 ## Author: Bhumika Bhatt
 You can find more of my projects on [GitHub](https://github.com/Bhumika1312).
+
+## License
+This project is licensed under the MIT License - see the [License](https://opensource.org/licenses/MIT) file for details.
