@@ -79,7 +79,7 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 ## Author
-**Bhumika Bhatt** You can find more of my projects on [GitHub](https://github.com/Bhumika1312).
+**Bhumika Bhatt**:  You can find more of my projects on [GitHub](https://github.com/Bhumika1312).
 
 ## License
 This project is licensed under the MIT License - see the [License](https://opensource.org/licenses/MIT) file for details.
