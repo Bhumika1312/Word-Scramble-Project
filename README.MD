@@ -1,6 +1,4 @@
-# Harvard CS50 Python Final Project Sample
-
-## Simple Word Scramble Game
+# Simple Word Scramble Game Python Project
 
 ## Video Demo: [URL HERE]
 
